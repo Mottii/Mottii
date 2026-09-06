@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00FF41&background=0D0208&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Wake+up%2C+Almaz...;The+Matrix+has+you.;Follow+the+white+rabbit." alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0208,100:00FF41&height=180&section=header&text=Almaz%20Smailogly&fontSize=44&fontColor=0D0208&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://raw.githubusercontent.com/Mottii/Mottii/main/matrix-banner.svg" width="100%" />
 
 </div>
 
