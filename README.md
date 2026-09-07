@@ -30,9 +30,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mottii&show_icons=true&hide_border=true&bg_color=0D0208&title_color=00FF41&icon_color=00FF41&text_color=00FF41" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=Mottii&show_icons=true&hide_border=true&bg_color=0D0208&title_color=00FF41&icon_color=00FF41&text_color=00FF41" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mottii&hide_border=true&background=0D0208&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=008F11" height="165" />
 
 </div>
+
+### 🐇 A year of commits, hopped
+
+<img src="https://raw.githubusercontent.com/Mottii/Mottii/main/rabbit-contributions.svg" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D0208&height=100&section=footer" width="100%" />
